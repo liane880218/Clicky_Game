@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "The beatles 1",
+    "image": "https://consequenceofsound.net/wp-content/uploads/2014/04/beatles.jpg?quality=80&resize=400%2C400&strip"
+  },
+  {
+    "id": 2,
+    "name": "The beatles 2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/The_Fabs.JPG"
+  },
+  {
+    "id": 3,
+    "name": "The beatles 3",
+    "image": "https://le0pard13.files.wordpress.com/2013/11/the-beatles-remastered.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The beatles 4",
+    "image": "https://traskavenue.files.wordpress.com/2013/06/beatles-650x367.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The beatles 5",
+    "image": "https://img.theculturetrip.com/wp-content/uploads/2016/03/beatles_ad_1965_just_the_beatles_crop1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The beatles 6",
+    "image": "https://images5.alphacoders.com/433/433488.jpg"
+  }
+]

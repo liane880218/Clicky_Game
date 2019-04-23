@@ -1,0 +1,13 @@
+.wrapper {
+  padding-top: 50px;
+  height: 100%;
+  padding: 20px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%);  
+  font-family: 'Courgette', cursive;
+  color: #bd3434
+}
