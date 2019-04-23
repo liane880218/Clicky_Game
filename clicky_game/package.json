@@ -1,5 +1,4 @@
 {
-  "homepage": "https://liane880218.github.io/Clicky_Game/",
   "name": "clicky_game",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +8,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },
+  "homepage": "https://liane880218.github.io/Clicky_Game/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
